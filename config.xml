@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.rsguy.TAHBB"
+    versionCode = "10"
+    version     = "0.1.0beta" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>TAHBB</name>
+
+  <description>
+      Homebrw Browser For Android
+  </description>
+
+  <author href="" email="redstoneguy.lel@gmail.com">
+      RSGuy
+  </author>
+
+  <icon src="icon.png" />
+
+</widget>
